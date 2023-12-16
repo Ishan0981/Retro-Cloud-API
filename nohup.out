@@ -1,0 +1,10 @@
+[PM2] Spawning PM2 daemon with pm2_home=/data/data/com.termux/files/home/.pm2
+[PM2 I/O] Using: Public key: cg2lrcgn4f3wts1 | Private key: 70o1ca6br6vbuln | Machine name: localhost-acbf
+[PM2] PM2 Successfully daemonized
+[PM2][WARN] Applications my-node-app not running, starting...
+[PM2] App [my-node-app] launched (1 instances)
+┌────┬────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name           │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ my-node-app    │ default     │ N/A     │ fork    │ 25470    │ 0s     │ 0    │ online    │ 0%       │ 33.0mb   │ u0_a748  │ disabled │
+└────┴────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘

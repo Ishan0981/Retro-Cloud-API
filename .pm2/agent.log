@@ -1,0 +1,1897 @@
+2023-12-15T17:43:30.284Z interactor:daemon MACHINE_NAME=localhost-acbf
+2023-12-15T17:43:30.298Z interactor:daemon PUBLIC_KEY=cg2lrcgn4f3wts1
+2023-12-15T17:43:30.299Z interactor:daemon ROOT_URL=https://root.keymetrics.io
+2023-12-15T17:43:30.301Z interactor:interface New transporter interface
+2023-12-15T17:43:30.302Z interactor:interface Bind [websocket] transport to transporter interface
+2023-12-15T17:43:30.419Z interactor:daemon [PM2 Agent] Launching agent
+2023-12-15T17:43:30.420Z interactor:daemon Launching Interactor RPC server (bind to /data/data/com.termux/files/home/.pm2/interactor.sock)
+2023-12-15T17:43:31.472Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2023-12-15T17:43:32.474Z interactor:reverse Reverse interactor is listening
+2023-12-15T17:43:32.476Z interactor:daemon Interactor daemon started
+2023-12-15T17:43:32.561Z interactor:pm2:interface PM2Interface instantiate
+2023-12-15T17:44:02.434Z interactor:daemon >> PM2 Watchdog started
+2023-12-15T17:44:02.436Z interactor:watchdog Launching
+2023-12-15T18:29:24.819Z interactor:daemon MACHINE_NAME=localhost-acbf
+2023-12-15T18:29:24.823Z interactor:daemon PUBLIC_KEY=cg2lrcgn4f3wts1
+2023-12-15T18:29:24.823Z interactor:daemon ROOT_URL=https://root.keymetrics.io
+2023-12-15T18:29:24.824Z interactor:interface New transporter interface
+2023-12-15T18:29:24.825Z interactor:interface Bind [websocket] transport to transporter interface
+2023-12-15T18:29:24.883Z interactor:daemon [PM2 Agent] Launching agent
+2023-12-15T18:29:24.884Z interactor:daemon Launching Interactor RPC server (bind to /data/data/com.termux/files/home/.pm2/interactor.sock)
+2023-12-15T18:29:31.310Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+Could not send data to parent
+2023-12-15T18:29:32.217Z interactor:reverse Reverse interactor is listening
+2023-12-15T18:29:32.218Z interactor:daemon Interactor daemon started
+2023-12-15T18:29:32.238Z interactor:pm2:interface PM2Interface instantiate
+2023-12-15T18:30:02.212Z interactor:daemon >> PM2 Watchdog started
+2023-12-15T18:30:02.219Z interactor:watchdog Launching
+2023-12-15T18:43:36.822Z interactor:daemon MACHINE_NAME=localhost-acbf
+2023-12-15T18:43:36.826Z interactor:daemon PUBLIC_KEY=cg2lrcgn4f3wts1
+2023-12-15T18:43:36.826Z interactor:daemon ROOT_URL=https://root.keymetrics.io
+2023-12-15T18:43:36.827Z interactor:interface New transporter interface
+2023-12-15T18:43:36.828Z interactor:interface Bind [websocket] transport to transporter interface
+2023-12-15T18:43:36.920Z interactor:daemon [PM2 Agent] Launching agent
+2023-12-15T18:43:36.921Z interactor:daemon Launching Interactor RPC server (bind to /data/data/com.termux/files/home/.pm2/interactor.sock)
+2023-12-15T18:43:37.916Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2023-12-15T18:43:38.829Z interactor:reverse Reverse interactor is listening
+2023-12-15T18:43:38.830Z interactor:daemon Interactor daemon started
+2023-12-15T18:43:38.881Z interactor:pm2:interface PM2Interface instantiate
+2023-12-15T18:44:08.812Z interactor:daemon >> PM2 Watchdog started
+2023-12-15T18:44:08.816Z interactor:watchdog Launching
+2023-12-15T19:09:29.084Z interactor:transporter Closed transporter
+2023-12-15T19:09:29.087Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:09:29.100Z interactor:interface Received event from websocket transporter
+2023-12-15T19:09:29.323Z interactor:transporter Internet is reachable again
+2023-12-15T19:09:30.913Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:10:48.159Z interactor:transporter Closed transporter
+2023-12-15T19:10:48.160Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:10:48.161Z interactor:interface Received event from websocket transporter
+2023-12-15T19:10:49.545Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:12:50.116Z interactor:transporter Closed transporter
+2023-12-15T19:12:50.116Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:12:50.118Z interactor:interface Received event from websocket transporter
+2023-12-15T19:12:51.463Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:15:15.215Z interactor:transporter Closed transporter
+2023-12-15T19:15:15.217Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:15:15.225Z interactor:interface Received event from websocket transporter
+2023-12-15T19:15:17.526Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:16:21.817Z interactor:transporter Closed transporter
+2023-12-15T19:16:21.818Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:16:21.819Z interactor:interface Received event from websocket transporter
+2023-12-15T19:16:23.371Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:19:13.966Z interactor:transporter Closed transporter
+2023-12-15T19:19:13.967Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:19:13.967Z interactor:interface Received event from websocket transporter
+2023-12-15T19:19:16.120Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:21:18.100Z interactor:transporter Closed transporter
+2023-12-15T19:21:18.101Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:21:18.102Z interactor:interface Received event from websocket transporter
+2023-12-15T19:21:20.230Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:23:07.686Z interactor:transporter Closed transporter
+2023-12-15T19:23:07.686Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:23:07.688Z interactor:interface Received event from websocket transporter
+2023-12-15T19:23:09.388Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:27:29.384Z interactor:transporter Closed transporter
+2023-12-15T19:27:29.386Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:27:29.390Z interactor:interface Received event from websocket transporter
+2023-12-15T19:27:31.231Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:29:16.633Z interactor:transporter Closed transporter
+2023-12-15T19:29:16.633Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:29:16.634Z interactor:interface Received event from websocket transporter
+2023-12-15T19:29:18.340Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:31:32.735Z interactor:transporter Closed transporter
+2023-12-15T19:31:32.736Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:31:32.738Z interactor:interface Received event from websocket transporter
+2023-12-15T19:31:34.532Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:35:57.931Z interactor:transporter Closed transporter
+2023-12-15T19:35:57.932Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:35:57.933Z interactor:interface Received event from websocket transporter
+2023-12-15T19:35:59.952Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:44:48.019Z interactor:transporter Closed transporter
+2023-12-15T19:44:48.031Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:44:48.037Z interactor:interface Received event from websocket transporter
+2023-12-15T19:44:50.084Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:54:47.211Z interactor:transporter Closed transporter
+2023-12-15T19:54:47.264Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:54:47.266Z interactor:interface Received event from websocket transporter
+2023-12-15T19:54:49.131Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:56:08.221Z interactor:transporter Closed transporter
+2023-12-15T19:56:08.221Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:56:08.222Z interactor:interface Received event from websocket transporter
+2023-12-15T19:56:09.714Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T19:59:16.214Z interactor:transporter Closed transporter
+2023-12-15T19:59:16.214Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T19:59:16.216Z interactor:interface Received event from websocket transporter
+2023-12-15T19:59:17.926Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T20:00:18.797Z interactor:transporter Closed transporter
+2023-12-15T20:00:18.797Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:00:18.798Z interactor:interface Received event from websocket transporter
+2023-12-15T20:00:20.593Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T20:02:23.919Z interactor:transporter Closed transporter
+2023-12-15T20:02:23.920Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:02:23.921Z interactor:interface Received event from websocket transporter
+2023-12-15T20:02:25.420Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T20:03:25.676Z interactor:transporter Closed transporter
+2023-12-15T20:03:25.677Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:03:25.677Z interactor:interface Received event from websocket transporter
+2023-12-15T20:03:27.474Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T20:04:29.168Z interactor:transporter Closed transporter
+2023-12-15T20:04:29.168Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:04:29.170Z interactor:interface Received event from websocket transporter
+2023-12-15T20:04:30.655Z interactor:transporter Connection etablished with remote endpoint
+2023-12-15T20:06:35.666Z interactor:transporter Closed transporter
+2023-12-15T20:06:35.674Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:35.705Z interactor:interface Received event from websocket transporter
+2023-12-15T20:06:35.752Z interactor:transporter Internet is unreachable (DNS)
+2023-12-15T20:06:35.752Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:36.347Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:36.349Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:37.351Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:37.355Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:37.754Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:37.757Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:38.349Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:38.353Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:39.355Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:39.359Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:39.759Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:39.763Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:40.354Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:40.362Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:41.361Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:41.365Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:41.766Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:41.777Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:42.362Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:42.365Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:43.361Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:43.365Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:43.366Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:43.370Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:43.779Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:43.783Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:44.364Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:44.367Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:45.366Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:45.369Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:45.372Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:45.376Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:45.785Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:45.789Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:46.369Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:46.373Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:47.370Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:47.373Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:47.377Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:47.382Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:47.790Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:47.795Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:48.372Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:48.378Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:49.373Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:49.377Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:49.384Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:49.388Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:49.796Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:49.800Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:50.374Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:50.378Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:50.380Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:50.384Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:51.376Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:51.380Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:51.390Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:51.393Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:51.802Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:51.806Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:52.377Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:52.381Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:06:52.385Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:06:52.388Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:07:09.784Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:07:09.790Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:07:09.797Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:07:09.802Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:07.796Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:07.801Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:08.366Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:08.371Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:08.372Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:08.376Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:08.378Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:08.382Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:09.372Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:09.378Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:09.378Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:09.382Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:09.390Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:09.393Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:09.804Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:09.808Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:10.373Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:10.377Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:10.377Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:10.381Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:10.384Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:10.388Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:11.373Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:11.377Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:11.378Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:11.382Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:11.383Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:11.386Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:11.394Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:11.397Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:11.811Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:11.815Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:12.376Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:12.381Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:12.385Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:12.388Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:12.389Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:12.393Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:13.376Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:13.380Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:13.384Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:13.387Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:13.387Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:13.391Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:08:13.398Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:08:13.402Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:09:44.680Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:09:44.684Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:15:28.860Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:15:28.864Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:15:28.870Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:15:28.874Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:17:09.713Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:17:09.717Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:17:09.720Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:17:09.725Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:17:09.727Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:17:09.731Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:17:09.737Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:17:09.741Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:20:07.087Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:20:07.093Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:20:07.921Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:20:07.926Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:20:07.936Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:20:07.941Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:27:09.814Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:27:09.818Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:27:09.821Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:27:09.825Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:27:09.829Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:27:09.833Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:27:09.836Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:27:09.840Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:27:09.845Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:27:09.850Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:23.435Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:23.440Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:23.992Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:24.008Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:24.987Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:24.990Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:24.994Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:24.998Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:25.001Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:25.005Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:25.009Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:25.012Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:25.019Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:25.022Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:25.442Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:25.446Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:30.086Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:30.091Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:30.108Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:30.113Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:31.088Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:31.092Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:31.097Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:31.100Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:31.105Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:31.108Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:31.112Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:31.115Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:31.122Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:31.126Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:31.547Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:31.551Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:32.089Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:32.093Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:32.094Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:32.098Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:32.114Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:32.118Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:35.045Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:35.050Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:35.051Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:35.055Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:35.056Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:35.060Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:35.064Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:35.069Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:35.071Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:35.074Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:28:35.082Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:28:35.086Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:32:51.766Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:32:51.770Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:37:09.836Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:37:09.841Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:37:09.843Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:37:09.846Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:37:09.863Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:37:09.866Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:45:11.672Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:45:11.683Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:45:11.689Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:45:11.694Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:45:12.047Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:45:12.051Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:47:08.655Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:47:08.661Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:47:08.717Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:47:08.727Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:47:32.706Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:47:32.710Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:47:32.719Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:47:32.724Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:47:33.077Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:47:33.080Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:47:33.650Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:47:33.654Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:47:33.708Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:47:33.729Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:47:34.708Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:47:34.712Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:47:34.724Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:47:34.728Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:47:35.081Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:47:35.086Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:47:37.296Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:47:37.299Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:47:37.346Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:47:37.349Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:47:37.369Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:47:37.372Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:48:06.122Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:48:06.228Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:48:06.320Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:48:06.328Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:51:19.305Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:51:19.325Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:51:19.354Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:51:19.358Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:51:19.378Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:51:19.383Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:51:19.511Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:51:19.515Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:52:31.727Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:52:31.734Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:52:31.819Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:52:31.825Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:52:31.919Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:52:31.924Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:53:38.222Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:53:38.226Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:53:38.255Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:53:38.259Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:53:38.279Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:53:38.283Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:53:38.405Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:53:38.412Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:53:38.412Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T20:53:38.415Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T20:57:09.825Z interactor:daemon Got an a error on ping root Error: getaddrinfo ENOTFOUND root.keymetrics.io
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3007,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'root.keymetrics.io'
+}
+2023-12-15T21:07:09.676Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:07:09.683Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:07:09.751Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:07:09.756Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:07:10.337Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:07:10.342Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:07:10.370Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:07:10.373Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:07:10.394Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:07:10.398Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:45.657Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:45.665Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:45.667Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:45.673Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:46.670Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:46.676Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:46.757Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:46.764Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:46.829Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:46.832Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:47.416Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:47.423Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:47.446Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:47.449Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:47.471Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:47.474Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:47.665Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:47.670Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:47.674Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:47.688Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:48.666Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:48.670Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:48.677Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:48.685Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:48.764Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:48.768Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:48.833Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:48.838Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:49.424Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:49.429Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:49.450Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:49.458Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:49.475Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:49.479Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:49.666Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:49.670Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:49.671Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:49.675Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:49.688Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:49.691Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:50.667Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:50.671Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:50.671Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:50.673Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:50.686Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:50.688Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:50.770Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:50.772Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:50.839Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:50.846Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:51.430Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:51.437Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:51.459Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:51.464Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:51.480Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:51.482Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:51.673Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:51.677Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:51.692Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:51.697Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:52.671Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:52.673Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:52.675Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:52.679Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:52.689Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:52.695Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:52.774Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:52.781Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:52.848Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:52.854Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:53.438Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:53.443Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:53.465Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:53.470Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:53.483Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:53.487Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:53.672Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:53.677Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:53.678Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:53.682Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:53.697Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:53.700Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:54.675Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:54.686Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:54.697Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:54.701Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:54.782Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:54.786Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:54.855Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:54.860Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:55.445Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:55.451Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:55.471Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:55.475Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:55.488Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:55.493Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:55.680Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:55.694Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:55.701Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:55.706Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:56.681Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:56.687Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:56.689Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:56.695Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:56.702Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:56.708Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:56.788Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:56.795Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:56.861Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:56.866Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:57.453Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:57.458Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:57.477Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:57.491Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:57.494Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:57.500Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:57.679Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:57.684Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:57.694Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:57.707Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:57.708Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:57.713Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:58.679Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:58.686Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:58.689Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:58.694Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:58.696Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:58.702Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:58.710Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:58.714Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:58.796Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:58.802Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:58.867Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:58.874Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:59.460Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:59.467Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:59.492Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:59.499Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:59.501Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:59.507Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:59.683Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:59.693Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:09:59.709Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:09:59.717Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:00.679Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:00.694Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:00.695Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:00.707Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:00.715Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:00.720Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:00.803Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:00.807Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:00.878Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:00.883Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:01.469Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:01.474Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:01.500Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:01.510Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:01.684Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:01.689Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:01.694Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:01.699Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:01.718Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:01.724Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:02.685Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:02.691Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:02.695Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:02.701Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:02.709Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:02.715Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:02.721Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:02.726Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:02.808Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:02.814Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:02.885Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:02.891Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:03.477Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:03.482Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:03.511Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:03.517Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:03.688Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:03.694Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:03.700Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:03.706Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:10:03.726Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:10:03.731Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:13:05.661Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:13:05.670Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:13:05.715Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:13:05.723Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:13:05.738Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:13:05.743Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:15:46.835Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:15:46.838Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:15:46.868Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:15:46.873Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:17:09.653Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:17:09.665Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:17:09.678Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:17:09.683Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:27:10.280Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:27:10.290Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:27:10.333Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:27:10.337Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:27:10.353Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:27:10.358Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:27:10.944Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:27:10.950Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:27:10.979Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:27:10.985Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:27:11.268Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:27:11.274Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:27:11.281Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:27:11.286Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:34:39.667Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:34:39.677Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:34:39.716Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:34:39.727Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:34:39.736Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:34:39.744Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:35:55.737Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:35:55.744Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:35:55.957Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:35:55.964Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:35:55.968Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:35:55.978Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:42:36.674Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:42:36.680Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:42:36.681Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:42:36.686Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:47:09.898Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:47:09.904Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:47:47.883Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:47:47.889Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:47:47.897Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:47:47.902Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:47:48.007Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:47:48.012Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:48:39.566Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:48:39.574Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:56:39.548Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:56:39.553Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:56:39.767Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:56:39.775Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:56:39.779Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:56:39.785Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:56:39.889Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:56:39.895Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:56:39.910Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:56:39.916Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T21:57:37.077Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T21:57:37.083Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:00:50.227Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:00:50.238Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:07:08.673Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:07:08.680Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:07:08.761Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:07:08.767Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:07:08.770Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:07:08.774Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:07:08.791Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:07:08.794Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:17:09.900Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:17:09.905Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:17:09.907Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:17:09.911Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:18:38.923Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:18:38.931Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:18:39.138Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:18:39.142Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:18:39.223Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:18:39.230Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:18:39.231Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:18:39.237Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:18:39.251Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:18:39.256Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:20:32.808Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:20:32.814Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:20:32.817Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:20:32.824Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:23:40.067Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:23:40.072Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:23:40.277Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:23:40.282Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:23:40.354Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:23:40.358Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:23:40.365Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:23:40.371Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:23:40.373Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:23:40.378Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:23:40.392Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:23:40.395Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:31:56.713Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:31:56.718Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:31:56.723Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:31:56.728Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:31:56.732Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:31:56.737Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:37:10.007Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:37:10.013Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:37:35.618Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:37:35.625Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:37:35.689Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:37:35.704Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:37:35.709Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:37:35.713Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:37:35.715Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:37:35.722Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:37:35.730Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:37:35.734Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:37:37.921Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:37:37.930Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:37:37.937Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:37:37.940Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:37:37.945Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:37:37.948Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:37:37.955Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:37:37.958Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:46:35.674Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:46:35.683Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:46:35.857Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:46:35.865Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:46:35.925Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:46:35.932Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:46:35.936Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:46:35.941Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:46:35.945Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:46:35.949Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:46:35.953Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:46:35.959Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:46:35.992Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:46:35.999Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:47:08.931Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:47:08.937Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:47:08.938Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:47:08.943Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:47:08.949Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:47:08.953Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:47:08.957Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:47:08.962Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:57:08.901Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:57:08.905Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:57:09.082Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:57:09.088Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:57:09.142Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:57:09.147Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:57:09.150Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:57:09.153Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:57:09.158Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:57:09.161Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:57:09.166Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:57:09.170Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:57:09.175Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:57:09.179Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T22:57:09.216Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T22:57:09.221Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:05:09.007Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:05:09.012Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:05:09.017Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:05:09.023Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:05:09.028Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:05:09.031Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:05:09.036Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:05:09.041Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:07:09.752Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:07:09.759Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:07:09.934Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:07:09.940Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:07:09.988Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:07:09.992Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:07:09.993Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:07:09.997Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:07:09.999Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:07:10.002Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:07:10.007Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:07:10.010Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:07:10.016Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:07:10.021Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:07:10.026Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:07:10.029Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:07:10.067Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:07:10.071Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:14:12.068Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:14:12.076Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:14:12.079Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:14:12.084Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:14:12.088Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:14:12.094Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:14:12.098Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:14:12.101Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:47.907Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:47.910Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:48.087Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:48.098Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:48.136Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:48.151Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:48.157Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:48.174Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:48.177Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:48.190Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:48.219Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:48.235Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:49.130Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:49.133Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:49.149Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:49.154Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:49.157Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:49.160Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:49.167Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:49.171Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:49.174Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:49.177Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:49.912Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:49.916Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:50.099Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:50.100Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:50.132Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:50.136Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:50.152Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:50.156Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:50.175Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:50.179Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:50.192Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:50.195Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:50.235Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:50.237Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:51.132Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:51.137Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:51.155Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:51.158Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:51.160Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:51.162Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:51.172Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:51.175Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:51.177Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:51.181Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:51.917Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:51.920Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:52.100Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:52.107Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:52.135Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:52.139Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:52.157Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:52.159Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:52.181Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:52.184Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:52.197Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:52.201Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:52.238Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:52.240Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:53.138Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:53.141Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:53.159Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:53.163Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:53.165Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:53.168Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:53.176Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:53.180Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:53.182Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:53.186Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:53.921Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:53.925Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:54.108Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:54.113Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:54.139Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:54.145Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:54.160Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:54.162Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:54.185Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:54.188Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:54.201Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:54.205Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:54.241Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:54.243Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:55.138Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:55.142Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:55.144Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:55.149Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:55.165Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:55.168Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:55.170Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:55.173Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:55.181Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:55.184Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:55.187Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:55.190Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:55.927Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:55.931Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:56.114Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:56.118Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:56.140Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:56.143Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:56.146Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:56.150Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:56.163Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:56.167Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:56.188Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:56.192Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:56.206Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:56.210Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:56.244Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:56.248Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:57.143Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:57.148Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:57.150Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:57.153Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:57.170Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:57.175Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:57.186Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:57.190Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:57.191Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:57.195Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:57.933Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:57.938Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:58.120Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:58.124Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:58.139Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:58.146Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:58.151Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:58.155Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:58.168Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:58.172Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:58.194Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:58.206Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:58.211Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:58.216Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:58.250Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:58.255Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:59.143Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:59.148Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:59.150Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:59.154Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:59.155Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:59.160Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:59.176Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:59.181Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:59.191Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:59.197Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:15:59.941Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:15:59.945Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:00.127Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:00.132Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:00.145Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:00.148Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:00.156Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:00.160Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:00.174Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:00.178Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:00.208Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:00.212Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:00.217Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:00.222Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:00.256Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:00.260Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:01.145Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:01.149Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:01.150Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:01.155Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:01.156Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:01.159Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:01.161Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:01.166Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:01.182Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:01.187Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:01.198Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:01.206Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:01.947Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:01.952Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:02.210Z interactor:daemon Got an a error on ping root Error: getaddrinfo ENOTFOUND root.keymetrics.io
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3007,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'root.keymetrics.io'
+}
+2023-12-15T23:16:02.230Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:02.239Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:02.261Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:02.265Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:03.150Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:03.154Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:03.156Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:03.160Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:03.162Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:03.166Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:03.168Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:03.173Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:03.188Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:03.194Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:03.207Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:03.211Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:03.244Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:03.248Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:03.953Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:03.960Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:04.238Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:04.243Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:16:04.266Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:16:04.270Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:24:38.672Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:24:38.679Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:24:38.682Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:24:38.686Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:26:48.861Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:26:48.868Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:26:49.144Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:26:49.156Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:26:49.171Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:26:49.175Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:27:09.713Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:27:09.720Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:33:04.067Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:33:04.072Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:33:04.072Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:33:04.079Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:33:04.230Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:33:04.235Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:37:08.784Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:37:08.791Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:37:48.921Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:37:48.927Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:37:48.938Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:37:48.943Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:37:49.126Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:37:49.132Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:37:49.169Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:37:49.174Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:44:19.813Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:44:19.821Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:44:19.972Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:44:19.976Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:44:19.977Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:44:19.981Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:47:08.658Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:47:08.666Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:47:08.833Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:47:08.839Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:47:08.849Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:47:08.854Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:47:09.032Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:47:09.036Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:47:09.037Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:47:09.041Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:49:45.826Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:49:45.833Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:49:46.490Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:49:46.497Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:49:46.641Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:49:46.645Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:49:46.650Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:49:46.654Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:53:50.087Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:53:50.091Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:53:50.232Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:53:50.236Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:53:50.247Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:53:50.252Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:53:50.424Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:53:50.430Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:53:50.433Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:53:50.438Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:53:50.618Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:53:50.623Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:57:09.662Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:57:09.670Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:57:09.739Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:57:09.744Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-15T23:57:09.752Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-15T23:57:09.757Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:07:09.669Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:07:09.676Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:07:09.728Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:07:09.734Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:07:09.743Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:07:09.749Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:07:09.915Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:07:09.919Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:07:09.922Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:07:09.926Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:07:09.929Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:07:09.933Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:09:46.676Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:09:46.684Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:09:47.410Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:09:47.417Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:09:47.476Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:09:47.480Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:09:47.482Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:09:47.486Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:09:47.496Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:09:47.501Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:21:32.657Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:21:32.667Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:21:32.751Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:21:32.756Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:21:32.761Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:21:32.767Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:21:32.768Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:21:32.772Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:27:09.676Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:27:09.682Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:27:36.940Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:27:36.944Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:27:36.993Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:27:36.998Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:27:37.004Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:27:37.007Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:27:37.009Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:27:37.011Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:27:37.024Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:27:37.030Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:27:38.611Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:27:38.615Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:27:38.691Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:27:38.696Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:27:38.700Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:27:38.703Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:27:38.710Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:27:38.714Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:27:38.716Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:27:38.720Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:27:39.047Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:27:39.050Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:28:58.039Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:28:58.046Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:28:58.092Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:28:58.096Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:28:58.101Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:28:58.106Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:28:58.123Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:28:58.125Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:34:22.370Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:34:22.376Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:34:22.448Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:34:22.453Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:34:22.456Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:34:22.462Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:34:22.467Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:34:22.471Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:34:22.473Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:34:22.477Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:34:22.805Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:34:22.810Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:34:54.260Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:34:54.265Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:34:54.306Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:34:54.310Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:34:54.318Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:37:08.651Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:37:08.652Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:37:08.663Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:43:48.693Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:43:48.700Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:43:48.763Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:43:48.767Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:43:48.768Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:43:48.771Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:43:48.778Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:43:48.782Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:43:48.786Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:43:48.791Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:43:48.793Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:43:48.797Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:43:49.126Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:43:49.130Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:43:49.724Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:43:49.728Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:43:49.763Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:43:49.769Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:47:09.673Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:47:09.679Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:47:10.381Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:47:10.387Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:47:10.443Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:47:10.447Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:47:10.447Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:47:10.452Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:47:10.453Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:47:10.457Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:47:10.463Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:53:18.681Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:53:18.850Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:53:18.854Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:53:19.449Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:53:19.454Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:57:08.675Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:57:08.681Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T00:57:08.745Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T00:57:08.751Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:07:14.656Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:07:14.668Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:07:14.671Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:07:14.679Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:07:14.820Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:07:14.825Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:07:14.992Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:07:14.997Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:11:31.218Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:11:31.222Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:11:31.298Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:11:31.304Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:11:31.422Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:11:31.427Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:11:31.491Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:11:31.495Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:18:58.827Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:18:58.834Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:18:58.839Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:18:58.843Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:18:58.875Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:18:58.880Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:18:59.047Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:18:59.052Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:18:59.647Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:18:59.654Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:18:59.730Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:18:59.734Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:18:59.841Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:18:59.846Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:18:59.851Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:18:59.856Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:18:59.920Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:18:59.926Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:20:43.277Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:20:43.287Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:20:43.324Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:20:43.329Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:27:08.674Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:27:08.680Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:27:48.865Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:27:48.872Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:27:48.945Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:27:48.949Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:27:49.052Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:27:49.057Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:27:49.067Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:27:49.071Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:27:49.138Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:27:49.143Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:32:49.680Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:32:49.689Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:32:49.727Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:32:49.736Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:32:49.872Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:32:49.878Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:46:32.674Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:46:32.679Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:46:32.693Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:46:32.700Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:46:32.707Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:46:32.711Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:46:32.779Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:46:32.784Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:46:32.835Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:46:32.840Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:57:09.657Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:57:09.672Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:57:09.767Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:57:09.772Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:57:10.423Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:57:10.428Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:57:10.444Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:57:10.449Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:57:10.454Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:57:10.458Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:57:10.529Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:57:10.534Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:57:10.585Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:57:10.590Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:57:10.672Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:57:10.678Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T01:59:42.830Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T01:59:42.836Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:03:35.331Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:03:35.338Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:03:35.826Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:03:35.831Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:03:35.845Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:03:35.850Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:03:35.855Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:03:35.859Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:03:35.930Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:03:35.935Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:03:35.988Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:03:35.993Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:03:36.066Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:03:36.070Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:03:36.074Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:03:36.078Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:11:31.677Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:11:31.688Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:11:31.693Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:11:31.696Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:11:31.822Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:11:31.826Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:17:09.874Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:17:09.880Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:17:09.892Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:17:09.898Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:17:09.899Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:17:09.903Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:17:36.648Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:17:36.654Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:17:36.664Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:17:36.671Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:17:36.672Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:17:36.675Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:17:36.800Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:17:36.805Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:17:38.969Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:17:38.974Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:17:38.980Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:17:38.983Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:17:39.110Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:17:39.114Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:21:09.657Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:21:09.667Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:21:09.828Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:21:09.834Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:21:09.845Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:21:09.851Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:27:09.647Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:27:09.657Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:27:09.661Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:27:09.666Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:27:10.561Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:27:10.567Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:27:10.569Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:27:10.574Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:27:10.661Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:27:10.666Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:27:10.700Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:27:10.707Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:30:53.836Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:30:53.842Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:37:09.661Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:37:09.668Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:37:09.818Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:37:09.824Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:37:09.828Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:37:09.832Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:44:06.794Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:44:06.801Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:44:06.802Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:44:06.810Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:44:06.885Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:44:06.891Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:44:06.893Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:44:06.897Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:44:06.935Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:44:06.939Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:48:11.814Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:48:11.821Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:48:11.984Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:48:11.989Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:48:12.137Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:48:12.142Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:48:12.147Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:48:12.151Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:55:32.358Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:55:32.365Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:55:32.416Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:55:32.421Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:55:32.425Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:55:32.432Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:55:32.468Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:55:32.471Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:57:09.662Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:57:09.670Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T02:57:09.783Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T02:57:09.788Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:03:53.674Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:03:53.684Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:15:17.070Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:15:17.081Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:15:17.082Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:15:17.088Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:15:17.121Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:15:17.126Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:15:17.207Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:15:17.211Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:15:17.808Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:15:17.813Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:16:09.658Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:16:09.666Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:16:09.840Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:16:09.845Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:17:49.351Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:17:49.357Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:17:49.358Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:17:49.363Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:17:49.396Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:17:49.401Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:17:49.469Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:17:49.474Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:17:49.481Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:17:49.485Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:25:48.722Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:25:48.730Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:25:48.933Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:25:48.938Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:49.674Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:49.682Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:49.686Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:49.691Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:50.555Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:50.567Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:50.597Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:50.608Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:50.672Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:50.690Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:51.291Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:51.294Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:51.498Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:51.502Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:51.681Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:51.686Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:51.693Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:51.700Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:52.570Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:52.574Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:52.608Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:52.611Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:52.684Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:52.688Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:52.690Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:52.694Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:53.295Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:53.300Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:53.502Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:53.505Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:53.682Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:53.685Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:53.687Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:53.691Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:53.701Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:53.703Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:54.577Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:54.581Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:54.612Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:54.615Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:54.682Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:54.686Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:54.688Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:54.692Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:54.696Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:54.700Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:55.301Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:55.312Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:55.507Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:55.511Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:55.684Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:55.689Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:55.692Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:55.711Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:56.583Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:56.588Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:56.617Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:56.621Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:56.686Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:56.694Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:56.700Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:56.704Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:57.314Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:57.318Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:57.512Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:57.515Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:57.684Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:57.688Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:57.690Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:57.694Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:57.712Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:57.716Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:58.590Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:58.595Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:58.623Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:58.628Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:58.692Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:58.696Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:58.705Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:58.709Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:59.321Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:59.326Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:59.536Z interactor:daemon Got an a error on ping root Error: getaddrinfo ENOTFOUND root.keymetrics.io
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -3007,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'root.keymetrics.io'
+}
+2023-12-16T03:26:59.548Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:59.552Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:59.692Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:59.697Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:26:59.717Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:26:59.721Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:00.597Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:00.601Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:00.629Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:00.633Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:00.693Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:00.698Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:00.698Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:00.702Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:00.711Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:00.715Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:01.328Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:01.332Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:01.553Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:01.557Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:01.697Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:01.701Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:01.722Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:01.726Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:02.604Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:02.608Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:02.635Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:02.640Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:02.693Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:02.697Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:02.699Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:02.714Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:02.715Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:02.720Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:03.334Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:03.339Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:03.559Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:03.564Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:03.693Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:03.696Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:03.703Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:03.706Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:03.727Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:03.731Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:04.610Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:04.614Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:04.640Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:04.644Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:04.692Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:04.695Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:04.697Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:04.701Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:04.715Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:04.719Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:04.721Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:04.724Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:05.341Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:05.345Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:05.566Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:05.569Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:05.695Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:05.699Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:05.708Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:05.712Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:05.733Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:05.737Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:18.937Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:18.944Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:18.967Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:18.971Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:19.017Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:19.022Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:19.023Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:19.028Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:19.041Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:19.045Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:19.046Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:19.050Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:19.667Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:19.671Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:19.891Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:19.895Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:20.009Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:20.014Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:20.020Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:20.022Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:20.034Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:20.036Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:20.058Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:20.060Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:20.945Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:20.948Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:20.972Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:20.975Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:21.009Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:21.013Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:21.023Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:21.025Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:21.029Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:21.032Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:21.046Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:21.050Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:21.050Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:21.053Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:21.673Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:21.675Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:21.895Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:21.899Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:22.010Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:22.013Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:22.015Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:22.017Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:22.023Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:22.025Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:22.037Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:22.040Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:22.060Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:22.061Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:22.949Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:22.953Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:22.975Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:22.977Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:23.013Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:23.017Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:23.026Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:23.030Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:23.033Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:23.036Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:23.051Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:23.057Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:23.677Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:23.684Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:23.899Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:23.902Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:30.654Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:30.658Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:30.663Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:30.670Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:37.337Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:37.341Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:37.360Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:37.364Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:37.400Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:37.404Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:37.413Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:37.417Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:37.418Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:37.422Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:37.446Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:37.451Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:27:37.485Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:27:37.489Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:32:48.450Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:32:48.453Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:32:48.668Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:32:48.670Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:32:48.865Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:32:48.871Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:32:48.875Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:32:48.880Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:12.940Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:12.944Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:12.961Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:12.965Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:14.656Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:14.662Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:14.668Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:14.671Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:15.856Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:15.910Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:15.910Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:15.913Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:16.111Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:16.115Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:16.120Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:16.123Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:16.153Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:16.156Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:17.283Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:17.288Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:17.303Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:17.307Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:17.460Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:17.464Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:17.469Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:17.472Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:19.399Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:19.411Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:19.605Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:19.609Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:19.613Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:19.616Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:19.637Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:19.640Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:19.646Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:19.652Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:20.465Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:20.468Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:20.485Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:20.487Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:20.637Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:20.642Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:20.649Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:20.653Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:21.412Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:21.416Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:21.610Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:21.614Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:21.617Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:21.621Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:21.641Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:21.648Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:21.653Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:21.663Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:22.470Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:22.474Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:22.488Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:22.493Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:22.635Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:22.637Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:22.642Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:22.645Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:22.653Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:22.655Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:23.417Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:23.419Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:23.614Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:23.616Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:23.621Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:23.623Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:23.635Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:23.636Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:23.648Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:23.650Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:23.664Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:23.665Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:24.475Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:24.479Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:24.495Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:24.500Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:24.638Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:24.642Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:24.645Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:24.648Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:24.656Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:24.658Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:25.419Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:25.421Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:25.617Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:25.632Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:25.637Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:25.646Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:25.650Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:25.673Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:26.482Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:26.490Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:26.501Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:26.504Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:26.637Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:26.641Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:26.643Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:26.646Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:26.649Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:26.652Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:26.660Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:26.663Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:27.422Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:27.425Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:27.633Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:27.636Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:27.646Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:27.648Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:27.674Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:27.675Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:28.491Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:28.492Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:28.505Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:28.506Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:28.636Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:28.638Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:28.641Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:28.645Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:28.647Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:28.650Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:28.652Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:28.655Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:28.663Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:28.665Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:29.426Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:29.429Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:29.637Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:29.639Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:29.648Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:29.650Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:29.675Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:29.677Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:30.493Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:30.494Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:30.506Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:30.508Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:30.637Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:30.639Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:30.645Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:30.647Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:30.651Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:30.653Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:30.655Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:30.657Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:30.665Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:30.667Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:31.431Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:31.433Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:31.638Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:31.640Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:31.650Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:31.652Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:31.678Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:31.680Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:32.496Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:32.499Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:32.508Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:32.512Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:32.642Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:32.645Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:32.648Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:32.651Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:32.653Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:32.657Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:32.668Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:32.672Z interactor:transporter Internet down, retry in 2 seconds ..
+2023-12-16T03:36:33.434Z interactor:transporter Trying to reconnect to remote endpoint
+2023-12-16T03:36:33.500Z interactor:transporter Internet is reachable again
+2023-12-16T03:36:34.748Z interactor:transporter Connection etablished with remote endpoint
+2023-12-16T03:41:52.460Z interactor:daemon MACHINE_NAME=localhost-acbf
+2023-12-16T03:41:52.469Z interactor:daemon PUBLIC_KEY=cg2lrcgn4f3wts1
+2023-12-16T03:41:52.470Z interactor:daemon ROOT_URL=https://root.keymetrics.io
+2023-12-16T03:41:52.470Z interactor:interface New transporter interface
+2023-12-16T03:41:52.471Z interactor:interface Bind [websocket] transport to transporter interface
+2023-12-16T03:41:52.616Z interactor:daemon [PM2 Agent] Launching agent
+2023-12-16T03:41:52.618Z interactor:daemon Launching Interactor RPC server (bind to /data/data/com.termux/files/home/.pm2/interactor.sock)
+2023-12-16T03:41:53.800Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2023-12-16T03:41:54.655Z interactor:reverse Reverse interactor is listening
+2023-12-16T03:41:54.656Z interactor:daemon Interactor daemon started
+2023-12-16T03:41:54.689Z interactor:pm2:interface PM2Interface instantiate
+2023-12-16T03:42:24.655Z interactor:daemon >> PM2 Watchdog started
+2023-12-16T03:42:24.662Z interactor:watchdog Launching
+2023-12-16T03:45:31.286Z interactor:daemon MACHINE_NAME=localhost-acbf
+2023-12-16T03:45:31.289Z interactor:daemon PUBLIC_KEY=cg2lrcgn4f3wts1
+2023-12-16T03:45:31.289Z interactor:daemon ROOT_URL=https://root.keymetrics.io
+2023-12-16T03:45:31.290Z interactor:interface New transporter interface
+2023-12-16T03:45:31.291Z interactor:interface Bind [websocket] transport to transporter interface
+2023-12-16T03:45:31.360Z interactor:daemon [PM2 Agent] Launching agent
+2023-12-16T03:45:31.361Z interactor:daemon Launching Interactor RPC server (bind to /data/data/com.termux/files/home/.pm2/interactor.sock)
+2023-12-16T03:45:32.324Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2023-12-16T03:45:33.025Z interactor:reverse Reverse interactor is listening
+2023-12-16T03:45:33.029Z interactor:daemon Interactor daemon started
+2023-12-16T03:45:33.087Z interactor:pm2:interface PM2Interface instantiate
+2023-12-16T03:46:03.013Z interactor:daemon >> PM2 Watchdog started
+2023-12-16T03:46:03.038Z interactor:watchdog Launching
+2023-12-16T03:56:58.296Z interactor:daemon MACHINE_NAME=localhost-acbf
+2023-12-16T03:56:58.302Z interactor:daemon PUBLIC_KEY=cg2lrcgn4f3wts1
+2023-12-16T03:56:58.302Z interactor:daemon ROOT_URL=https://root.keymetrics.io
+2023-12-16T03:56:58.304Z interactor:interface New transporter interface
+2023-12-16T03:56:58.305Z interactor:interface Bind [websocket] transport to transporter interface
+2023-12-16T03:56:58.356Z interactor:daemon [PM2 Agent] Launching agent
+2023-12-16T03:56:58.356Z interactor:daemon Launching Interactor RPC server (bind to /data/data/com.termux/files/home/.pm2/interactor.sock)
+2023-12-16T03:56:59.378Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2023-12-16T03:57:00.119Z interactor:reverse Reverse interactor is listening
+2023-12-16T03:57:00.119Z interactor:daemon Interactor daemon started
+2023-12-16T03:57:00.148Z interactor:pm2:interface PM2Interface instantiate
+2023-12-16T03:57:30.115Z interactor:daemon >> PM2 Watchdog started
+2023-12-16T03:57:30.116Z interactor:watchdog Launching
+2023-12-16T04:07:47.815Z interactor:daemon MACHINE_NAME=localhost-acbf
+2023-12-16T04:07:47.818Z interactor:daemon PUBLIC_KEY=cg2lrcgn4f3wts1
+2023-12-16T04:07:47.819Z interactor:daemon ROOT_URL=https://root.keymetrics.io
+2023-12-16T04:07:47.819Z interactor:interface New transporter interface
+2023-12-16T04:07:47.820Z interactor:interface Bind [websocket] transport to transporter interface
+2023-12-16T04:07:47.919Z interactor:daemon [PM2 Agent] Launching agent
+2023-12-16T04:07:47.921Z interactor:daemon Launching Interactor RPC server (bind to /data/data/com.termux/files/home/.pm2/interactor.sock)
+2023-12-16T04:07:49.107Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2023-12-16T04:07:50.157Z interactor:reverse Reverse interactor is listening
+2023-12-16T04:07:50.159Z interactor:daemon Interactor daemon started
+2023-12-16T04:07:50.219Z interactor:pm2:interface PM2Interface instantiate
+2023-12-16T04:08:20.136Z interactor:daemon >> PM2 Watchdog started
+2023-12-16T04:08:20.141Z interactor:watchdog Launching
+2023-12-16T04:12:07.702Z interactor:daemon MACHINE_NAME=localhost-acbf
+2023-12-16T04:12:07.705Z interactor:daemon PUBLIC_KEY=cg2lrcgn4f3wts1
+2023-12-16T04:12:07.705Z interactor:daemon ROOT_URL=https://root.keymetrics.io
+2023-12-16T04:12:07.706Z interactor:interface New transporter interface
+2023-12-16T04:12:07.708Z interactor:interface Bind [websocket] transport to transporter interface
+2023-12-16T04:12:07.764Z interactor:daemon [PM2 Agent] Launching agent
+2023-12-16T04:12:07.764Z interactor:daemon Launching Interactor RPC server (bind to /data/data/com.termux/files/home/.pm2/interactor.sock)
+2023-12-16T04:12:13.965Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+Could not send data to parent
+2023-12-16T04:12:14.741Z interactor:reverse Reverse interactor is listening
+2023-12-16T04:12:14.742Z interactor:daemon Interactor daemon started
+2023-12-16T04:12:14.761Z interactor:pm2:interface PM2Interface instantiate
+2023-12-16T04:12:44.737Z interactor:daemon >> PM2 Watchdog started
+2023-12-16T04:12:44.740Z interactor:watchdog Launching

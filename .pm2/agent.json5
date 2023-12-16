@@ -1,0 +1,11 @@
+{
+    "version_management": {
+        "active": true
+    },
+    "public_key": "cg2lrcgn4f3wts1",
+    "secret_key": "70o1ca6br6vbuln",
+    "machine_name": "localhost-acbf",
+    "pm2_version": "5.3.0",
+    "reverse_interact": true,
+    "info_node": "https://root.keymetrics.io"
+}

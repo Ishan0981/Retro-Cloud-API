@@ -1,0 +1,21 @@
+Error refreshing cache: ReferenceError: csvtojson is not defined
+    at convertCsvToJson (/data/data/com.termux/files/home/server.js:18:5)
+    at async refreshDataCache (/data/data/com.termux/files/home/server.js:27:21)
+    at async /data/data/com.termux/files/home/server.js:51:7
+Error refreshing cache: ReferenceError: csvtojson is not defined
+    at convertCsvToJson (/data/data/com.termux/files/home/server.js:18:5)
+    at async refreshDataCache (/data/data/com.termux/files/home/server.js:27:21)
+    at async /data/data/com.termux/files/home/server.js:51:7
+Error refreshing cache: ReferenceError: csvtojson is not defined
+    at convertCsvToJson (/data/data/com.termux/files/home/server.js:18:5)
+    at async Timeout.refreshDataCache [as _onTimeout] (/data/data/com.termux/files/home/server.js:27:21)
+Error refreshing cache: ReferenceError: csvtojson is not defined
+    at convertCsvToJson (/data/data/com.termux/files/home/server.js:18:5)
+    at async Timeout.refreshDataCache [as _onTimeout] (/data/data/com.termux/files/home/server.js:27:21)
+Error refreshing cache: ReferenceError: csvtojson is not defined
+    at convertCsvToJson (/data/data/com.termux/files/home/server.js:18:5)
+    at async Timeout.refreshDataCache [as _onTimeout] (/data/data/com.termux/files/home/server.js:27:21)
+Error refreshing cache: ReferenceError: csvtojson is not defined
+    at convertCsvToJson (/data/data/com.termux/files/home/server.js:18:5)
+    at async refreshDataCache (/data/data/com.termux/files/home/server.js:27:21)
+    at async /data/data/com.termux/files/home/server.js:51:7
