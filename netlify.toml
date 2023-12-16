@@ -1,0 +1,9 @@
+# netlify.toml
+
+[build]
+  command = "npm run build" # Replace this with your actual build command
+  publish = "dist"           # Replace this with your actual publish directory
+
+[dev]
+  command = "npm run start"  # Replace this with your actual development server command
+  port = 3000                # Replace this with your actual development server port
